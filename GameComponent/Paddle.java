@@ -1,4 +1,4 @@
-//package Gamecomponent;
+//package GameComponent;
 //import abstractComponentPackage.TwoDPaddle;
 
 public class Paddle extends TwoDPaddle{
